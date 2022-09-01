@@ -1,0 +1,49 @@
+{
+    "status": 200,
+    "data": {
+        "id": "SPID_004_ChalkOutline",
+        "name": "Chalk Outline",
+        "description": "Leave your mark.",
+        "type": {
+            "value": "spray",
+            "displayValue": "Spray",
+            "backendValue": "AthenaSpray"
+        },
+        "rarity": {
+            "value": "uncommon",
+            "displayValue": "Uncommon",
+            "backendValue": "EFortRarity::Uncommon"
+        },
+        "series": null,
+        "set": null,
+        "introduction": {
+            "chapter": "1",
+            "season": "4",
+            "text": "Introduced in Chapter 1, Season 4.",
+            "backendValue": 4
+        },
+        "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/spid_004_chalkoutline/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/spid_004_chalkoutline/icon.png",
+            "featured": null,
+            "other": {
+                "decal": "https://fortnite-api.com/images/cosmetics/br/spid_004_chalkoutline/decal.png"
+            }
+        },
+        "variants": null,
+        "searchTags": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Source.Season4.BattlePass.Paid",
+            "Cosmetics.Filter.Season.4"
+        ],
+        "metaTags": null,
+        "showcaseVideo": null,
+        "dynamicPakId": null,
+        "displayAssetPath": null,
+        "definitionPath": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_004_ChalkOutline",
+        "added": "2019-11-20T12:49:41Z",
+        "shopHistory": null
+    }
+}
